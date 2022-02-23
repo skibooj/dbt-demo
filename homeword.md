@@ -24,6 +24,7 @@ You will need to complete "Visualising the data" videos, either using data studi
 
 ![distribution](https://user-images.githubusercontent.com/22966749/155297326-c90d6edf-a29e-4728-be30-c1e2b3d62d95.png)
 
+**answer:** 89.9/10.1
 ### Question 3: 
 **What is the count of records in the model stg_fhv_tripdata after running all models with the test run variable disabled (:false)**  
 
@@ -59,3 +60,5 @@ Create a dashboard with some tiles that you find interesting to explore the data
 
 
 [link to raport](https://datastudio.google.com/reporting/03ac886b-d68d-4740-b867-0a8af4404b74/page/0DXmC)
+
+**answer:** january
