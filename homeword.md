@@ -22,7 +22,7 @@ WHERE pickup_datetime BETWEEN '2019-01-01' AND '2020-12-31'
 
 You will need to complete "Visualising the data" videos, either using data studio or metabase. 
 
-[distribution](https://user-images.githubusercontent.com/22966749/155297326-c90d6edf-a29e-4728-be30-c1e2b3d62d95.png)
+![distribution](https://user-images.githubusercontent.com/22966749/155297326-c90d6edf-a29e-4728-be30-c1e2b3d62d95.png)
 
 ### Question 3: 
 **What is the count of records in the model stg_fhv_tripdata after running all models with the test run variable disabled (:false)**  
